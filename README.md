@@ -32,8 +32,6 @@ If all cells are filled without a winner, the game ends in a **draw**.
 - 🎨 **CSS3** – Styling and responsive design  
 - ⚡ **JavaScript (Vanilla JS)** – Game logic & interactivity  
 
----
-👉 Play the game here: [Tic Tac Toe - Live Demo](https://Aditiag15.github.io/Tic-Tac-Toe-Game/)
 
  
 
